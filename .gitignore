@@ -1,3 +1,8 @@
+#OutputFiles
+hourly_data_csv/
+ProcessedObsSeqFiles/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
